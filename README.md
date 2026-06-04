@@ -1,6 +1,6 @@
 # 🛒 CraveCart
 
-CraveCart is a modern, full-stack e-commerce platform designed for a seamless shopping experience. The application leverages **Next.js** for a high-performance frontend and **Node.js** for a robust backend, featuring secure image management and real-time development capabilities.
+CraveCart is a modern, full-stack e-commerce platform designed for a seamless shopping experience. The application leverages **React.js** for a high-performance frontend and **Node.js** for a robust backend, featuring secure image management and real-time development capabilities.
 
 ---
 
